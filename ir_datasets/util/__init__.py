@@ -10,6 +10,7 @@ from .fileio import IterStream, Cache, TarExtract, TarExtractAll, RelativePath, 
 from .download import Download, DownloadConfig, BaseDownload, RequestsDownload, LocalDownload, _DownloadConfig
 from .hash import HashVerificationError, HashVerifier, HashStream
 from .registry import Registry
+from .html_parsing import sax_html_parser
 
 
 _logger = log.easy()
