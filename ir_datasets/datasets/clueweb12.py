@@ -178,6 +178,8 @@ class ClueWeb12Docs(WarcDocs):
         return os.path.join(self.docs_dlc.path(), f'ClueWeb12_{sec[:2]}', sec, f'{sec}-{part}.warc.gz')
 
     def _docs_source_file_to_checkpoint(self, source_file):
+        if os.environ.get('IR_DATASETS_CW_SKIP_CHK', '0') == '1':
+            return None # See #134
         if self.chk_dlc is None:
             return None
         source_prefix = Path(self.docs_dlc.path())

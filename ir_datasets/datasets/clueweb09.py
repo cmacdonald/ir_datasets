@@ -73,6 +73,8 @@ class ClueWeb09Docs(WarcDocs):
         return source_file[0]
 
     def _docs_source_file_to_checkpoint(self, source_file):
+        if os.environ.get('IR_DATASETS_CW_SKIP_CHK', '0') == '1':
+            return None # See #134
         source_prefix = Path(self.docs_dlc.path())
         source_file = Path(source_file)
         index_prefix = Path(self.chk_dlc.path())
