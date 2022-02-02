@@ -3584,6 +3584,28 @@
   }
 },
 
+
+"wt10g": {
+  "docs": {
+    "instructions": "GOV is available by hard drive from UoG here: <http://ir.dcs.gla.ac.uk/test_collections/access_to_data.html>\nMore details about the procedure can be found here: <https://ir-datasets.com/gov.html#DataAccess>.\nLink the GOV source files here: {path}\nShould contain G00, G01, G02, ...",
+    "cache_path": "corpus"
+  },
+  "trec-web-2000/queries": {
+    "url": "https://trec.nist.gov/data/topics_eng/topics.451-500.gz",
+    "irds_mirror": false,
+    "size_hint": 5939,
+    "expected_md5": "154a871adb9fa276a1e226297351a669",
+    "cache_path": "trec-web-2000/queries.txt.gz"
+  },
+  "trec-web-2000/qrels": {
+    "url": "https://trec.nist.gov/data/qrels_eng/qrels.trec9.main_web.gz",
+    "irds_mirror": false,
+    "size_hint": 275568,
+    "expected_md5": "93b64f073a3d6e345566383b21b423a6",
+    "cache_path": "trec-web-2000/qrels.txt.gz"
+  }
+},
+
 "hc4": {
   "train/topics": {
     "url": "https://raw.githubusercontent.com/hltcoe/HC4/main/resources/hc4/train.topics.v1-0.jsonl",

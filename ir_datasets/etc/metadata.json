@@ -497,5 +497,6 @@
   "wikir/it16k": {"docs": {"count": 503012, "fields": {"doc_id": {"max_len": 6, "common_prefix": ""}}}},
   "wikir/it16k/test": {"docs": {"_ref": "wikir/it16k"}, "queries": {"count": 1600}, "qrels": {"count": 49338, "fields": {"relevance": {"counts_by_value": {"2": 1600, "1": 47738}}}}, "scoreddocs": {"count": 160000}},
   "wikir/it16k/training": {"docs": {"_ref": "wikir/it16k"}, "queries": {"count": 13418}, "qrels": {"count": 381920, "fields": {"relevance": {"counts_by_value": {"2": 13418, "1": 368502}}}}, "scoreddocs": {"count": 1341800}},
-  "wikir/it16k/validation": {"docs": {"_ref": "wikir/it16k"}, "queries": {"count": 1600}, "qrels": {"count": 45003, "fields": {"relevance": {"counts_by_value": {"2": 1600, "1": 43403}}}}, "scoreddocs": {"count": 160000}}
+  "wikir/it16k/validation": {"docs": {"_ref": "wikir/it16k"}, "queries": {"count": 1600}, "qrels": {"count": 45003, "fields": {"relevance": {"counts_by_value": {"2": 1600, "1": 43403}}}}, "scoreddocs": {"count": 160000}},
+  "wt10g": {"docs": {"count": 1692096, "fields": {"doc_id": {"max_len": 15, "common_prefix": "WTX"}}}}
 }
