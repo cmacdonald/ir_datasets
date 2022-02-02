@@ -89,7 +89,7 @@ class GovDocs(BaseDocs):
             # as fast as reading the input line-by-line and searching for <DOC> and </DOC> lines
             inp.extend(gov2f.read1())
             START, END = b'<DOC>\n', b'</DOC>\n'
-            while inp != b'':
+            while inp != b'' and inp.strip() != b'</DOC>':
                 inp, next_doc = self._extract_next_block(inp, START, END)
                 while next_doc is not None:
                     yield self._process_gov_doc(next_doc)

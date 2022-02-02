@@ -39,7 +39,6 @@ class WTDocs(GovDocs):
         # or if they don't appear, return (inp, None).
         i_start = inp.find(START)
         i_end = inp[i_start:].find(END)
-        #print(START, END, i_start, i_end)
         if i_start == -1 or i_end == -1:
             return inp.strip(), None
         i_end += i_start
