@@ -30,6 +30,11 @@ QREL_DEFS = {
 from .gov import GovDoc, GovDocs
 
 class WTDocs(GovDocs):
+
+    def __init__(self, *args, dirglob='WTX???', fileglob="*.gz", **kwargs):
+        super().__init__(*args, **kwargs)
+        self.dirglob = dirglob
+        self.fileglob = fileglob
     
     def docs_namespace(self):
         return NAME
@@ -45,9 +50,9 @@ class WTDocs(GovDocs):
         return inp[i_end+len(END): ], inp[i_start+len(START):i_end]
 
     def _docs_iter(self):
-        dirs = sorted(Path(self.docs_dlc.path()).glob('WTX???'))
+        dirs = sorted(Path(self.docs_dlc.path()).glob(self.dirglob))
         for source_dir in dirs:
-            for source_file in sorted(source_dir.glob('*.gz')):
+            for source_file in sorted(source_dir.glob(self.fileglob)):
                 yield from self._docs_ctxt_iter_gov(source_file)
 
     def _process_gov_doc(self, raw_doc):
@@ -89,6 +94,21 @@ def _init():
         TrecQueries(GzipExtract(dlc['trec-web-2000/queries']), namespace='wt10g/trec-web-2000', lang='en'),
         TrecQrels(GzipExtract(dlc['trec-web-2000/qrels']), QREL_DEFS),
         documentation('trec-web-2000')
+    )
+
+    subsets['trec-web-2001'] = Dataset(
+        collection,
+        TrecQueries(dlc['trec-web-2001/queries'], namespace='wt10g/trec-web-2001', lang='en'),
+        TrecQrels(GzipExtract(dlc['trec-web-2001/qrels']), QREL_DEFS),
+        documentation('trec-web-2001')
+    )
+
+    # TODO this set doesnt parse correctly. 
+    subsets['trec-web-2001/homepage'] = Dataset(
+        collection,
+        TrecQueries(dlc['trec-web-2001/homepage/queries'], namespace='wt10g/trec-web-2001/homepage', lang='en'),
+        TrecQrels(GzipExtract(dlc['trec-web-2001/homepage/qrels']), QREL_DEFS),
+        documentation('trec-web-2001/homepage')
     )
 
     ir_datasets.registry.register(NAME, base)

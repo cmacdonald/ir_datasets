@@ -3587,7 +3587,7 @@
 
 "wt10g": {
   "docs": {
-    "instructions": "GOV is available by hard drive from UoG here: <http://ir.dcs.gla.ac.uk/test_collections/access_to_data.html>\nMore details about the procedure can be found here: <https://ir-datasets.com/gov.html#DataAccess>.\nLink the GOV source files here: {path}\nShould contain G00, G01, G02, ...",
+    "instructions": "WT10G is available by hard drive from UoG here: <http://ir.dcs.gla.ac.uk/test_collections/access_to_data.html>\nMore details about the procedure can be found here: <https://ir-datasets.com/gov.html#DataAccess>.\nLink the WT10G source files here: {path}\nShould contain WTX001, WTX001, WTX002, ...",
     "cache_path": "corpus"
   },
   "trec-web-2000/queries": {
@@ -3602,6 +3602,55 @@
     "irds_mirror": false,
     "size_hint": 275568,
     "expected_md5": "93b64f073a3d6e345566383b21b423a6",
+    "cache_path": "trec-web-2000/qrels.txt.gz"
+  },
+  "trec-web-2001/queries": {
+    "url": "https://trec.nist.gov/data/topics_eng/topics.501-550.txt",
+    "irds_mirror": false,
+    "size_hint": 15489,
+    "expected_md5": "58d1a552d2a3337cdbd47f922f0ff889",
+    "cache_path": "trec-web-2001/queries.txt"
+  },
+  "trec-web-2001/qrels": {
+    "url": "https://trec.nist.gov/data/qrels_eng/qrels.trec10.main_web.gz",
+    "irds_mirror": false,
+    "size_hint": 283643,
+    "expected_md5": "82865ce30fec35e7b32701b8e58e0fb1",
+    "cache_path": "trec-web-2001/qrels.txt.gz"
+  },
+  "trec-web-2001/homepage/queries": {
+    "url": "https://trec.nist.gov/data/topics_eng/entry_page_topics.1-145.txt",
+    "irds_mirror": false,
+    "size_hint": 11756,
+    "expected_md5": "a6c8672c3bafb4ce98705bcc272d7d9b",
+    "cache_path": "trec-web-2001/homepage/queries.txt"
+  },
+  "trec-web-2001/homepage/qrels": {
+    "url": "https://trec.nist.gov/data/qrels_eng/qrels.trec10.entrypage.gz",
+    "irds_mirror": false,
+    "size_hint": 1690,
+    "expected_md5": "af904cb71818a31a1e0df089ca330cbf",
+    "cache_path": "trec-web-2001/homepage/qrels.txt.gz"
+  }
+},
+
+"wt2g": {
+  "docs": {
+    "instructions": "WT2G is available by hard drive from UoG here: <http://ir.dcs.gla.ac.uk/test_collections/access_to_data.html>\nMore details about the procedure can be found here: <https://ir-datasets.com/gov.html#DataAccess>.\nLink the WT2G source files here: {path}\nShould contain WT01, WT02, WT03, ...",
+    "cache_path": "corpus"
+  },
+  "trec-web-1999/queries": {
+    "url": "https://trec.nist.gov/data/topics_eng/topics.401-450.gz",
+    "irds_mirror": false,
+    "size_hint": 6946,
+    "expected_md5": "daaafb700eed76f61a6e9e4b0dcc40c8",
+    "cache_path": "trec-web-2000/queries.txt.gz"
+  },
+  "trec-web-1999/qrels": {
+    "url": "https://trec.nist.gov/data/qrels_eng/qrels.trec8.small_web.gz",
+    "irds_mirror": false,
+    "size_hint": 164874,
+    "expected_md5": "2fe87f42ff6f39ac96c76555d7e02991",
     "cache_path": "trec-web-2000/qrels.txt.gz"
   }
 },
