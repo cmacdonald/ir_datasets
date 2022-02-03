@@ -45,7 +45,9 @@ class WTDocs(GovDocs):
         i_start = inp.find(START)
         i_end = inp[i_start:].find(END)
         if i_start == -1 or i_end == -1:
-            return inp.strip(), None
+            if inp.strip() == b'':
+                return inp.strip(), None
+            return inp, None
         i_end += i_start
         return inp[i_end+len(END): ], inp[i_start+len(START):i_end]
 
