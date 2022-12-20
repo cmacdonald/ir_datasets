@@ -274,6 +274,7 @@
   "medline/2017": {"docs": {"count": 26740025, "fields": {"doc_id": {"max_len": 15, "common_prefix": ""}}}},
   "medline/2017/trec-pm-2017": {"docs": {"_ref": "medline/2017"}, "queries": {"count": 30}, "qrels": {"count": 22642, "fields": {"relevance": {"counts_by_value": {"0": 18767, "1": 1853, "2": 2022}}}}},
   "medline/2017/trec-pm-2018": {"docs": {"_ref": "medline/2017"}, "queries": {"count": 50}, "qrels": {"count": 22429, "fields": {"relevance": {"counts_by_value": {"0": 16841, "2": 3442, "1": 2146}}}}},
+  "miracl": {},
   "mmarco": {},
   "mmarco/de": {"docs": {"count": 8841823, "fields": {"doc_id": {"max_len": 7, "common_prefix": ""}}}},
   "mmarco/de/dev": {"docs": {"_ref": "mmarco/de"}, "queries": {"count": 101093}, "qrels": {"count": 59273, "fields": {"relevance": {"counts_by_value": {"1": 59273}}}}},

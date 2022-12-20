@@ -1899,6 +1899,893 @@
   }
 },
 
+"miracl": {
+  "miracl-ar-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ar/docs-0.jsonl.gz",
+    "expected_md5": "d484e02a3cd973b4c36bd7867d7f40fa",
+    "size_hint": 94104175
+  },
+  "miracl-ar-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ar/docs-1.jsonl.gz",
+    "expected_md5": "2af6f236d7c37c2bde97be4a13a3abaa",
+    "size_hint": 83793880
+  },
+  "miracl-ar-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ar/docs-2.jsonl.gz",
+    "expected_md5": "f5ee426bd15eb07e335c0b2f51798672",
+    "size_hint": 70295610
+  },
+  "miracl-ar-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ar/docs-3.jsonl.gz",
+    "expected_md5": "3808e89c2468bc10f49d4d4ae5f8a66c",
+    "size_hint": 64551259
+  },
+  "miracl-ar-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ar/docs-4.jsonl.gz",
+    "expected_md5": "73a29b3038c984a86da189aa16c3fb8f",
+    "size_hint": 7227421
+  },
+  "miracl-bn-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-bn/docs-0.jsonl.gz",
+    "expected_md5": "1e30b159bc3634e068bcf8f1fbff68ef",
+    "size_hint": 59713182
+  },
+  "miracl-en-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-0.jsonl.gz",
+    "expected_md5": "ed94fdd2dad913fcffe0308b021082d6",
+    "size_hint": 98856369
+  },
+  "miracl-en-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-1.jsonl.gz",
+    "expected_md5": "9adcfccb058f46050648dea35755a39f",
+    "size_hint": 97338482
+  },
+  "miracl-en-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-2.jsonl.gz",
+    "expected_md5": "f961ce2675bc472b4d4126399acb7564",
+    "size_hint": 64571457
+  },
+  "miracl-en-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-3.jsonl.gz",
+    "expected_md5": "853a5180f4c1012ebee1f2c5a3e26506",
+    "size_hint": 79988237
+  },
+  "miracl-en-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-4.jsonl.gz",
+    "expected_md5": "80271ce096ccb01565857d4dd8f2b4a5",
+    "size_hint": 91846360
+  },
+  "miracl-en-5": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-5.jsonl.gz",
+    "expected_md5": "2ae2b6919cbea03f03469633690acfd1",
+    "size_hint": 91542927
+  },
+  "miracl-en-6": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-6.jsonl.gz",
+    "expected_md5": "7543b1726742ce466cd2a2a57f765e62",
+    "size_hint": 88919126
+  },
+  "miracl-en-7": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-7.jsonl.gz",
+    "expected_md5": "c9ac416afef48a6f7d9dcc66ddeff2d5",
+    "size_hint": 88149943
+  },
+  "miracl-en-8": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-8.jsonl.gz",
+    "expected_md5": "96f9fd6a228e9f46bfdb4eda0ffd6b90",
+    "size_hint": 87557556
+  },
+  "miracl-en-9": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-9.jsonl.gz",
+    "expected_md5": "6d3d37aac292937e93dbe0eb0efb1c00",
+    "size_hint": 86565246
+  },
+  "miracl-en-10": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-10.jsonl.gz",
+    "expected_md5": "20e5926a36d44c6ece5c1942bda19817",
+    "size_hint": 85787457
+  },
+  "miracl-en-11": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-11.jsonl.gz",
+    "expected_md5": "7552668e7db1591d0fe71df3b044cffd",
+    "size_hint": 85858461
+  },
+  "miracl-en-12": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-12.jsonl.gz",
+    "expected_md5": "383760be692a540b30e5b1b2239bab16",
+    "size_hint": 85089158
+  },
+  "miracl-en-13": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-13.jsonl.gz",
+    "expected_md5": "7da0ffd49848f9c7e2912b1ad1152d3b",
+    "size_hint": 82769410
+  },
+  "miracl-en-14": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-14.jsonl.gz",
+    "expected_md5": "2c4d6f9220716e624daa016756d707e8",
+    "size_hint": 83032778
+  },
+  "miracl-en-15": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-15.jsonl.gz",
+    "expected_md5": "a90950760f60e5f0e92c4e7f3774f7e7",
+    "size_hint": 82548385
+  },
+  "miracl-en-16": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-16.jsonl.gz",
+    "expected_md5": "20e2030038fbb450be2ac09fedaf77b3",
+    "size_hint": 81947138
+  },
+  "miracl-en-17": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-17.jsonl.gz",
+    "expected_md5": "12136a0df0a80092eafd694820cc6f81",
+    "size_hint": 81038479
+  },
+  "miracl-en-18": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-18.jsonl.gz",
+    "expected_md5": "a907bbf4ef1b264d0304bb99cc392b15",
+    "size_hint": 80496066
+  },
+  "miracl-en-19": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-19.jsonl.gz",
+    "expected_md5": "f52ad0a000336d7a73a4e0d0e2bb996f",
+    "size_hint": 80243337
+  },
+  "miracl-en-20": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-20.jsonl.gz",
+    "expected_md5": "8b9d4eb4374aeba9567e09470cf5b061",
+    "size_hint": 80003557
+  },
+  "miracl-en-21": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-21.jsonl.gz",
+    "expected_md5": "32ab1841c2deb612eb3ec83a2f371452",
+    "size_hint": 79751834
+  },
+  "miracl-en-22": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-22.jsonl.gz",
+    "expected_md5": "5334d398deaa053e6f380612973580ef",
+    "size_hint": 76766869
+  },
+  "miracl-en-23": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-23.jsonl.gz",
+    "expected_md5": "505f419951b8665cd9fc69604f6b5e62",
+    "size_hint": 75810312
+  },
+  "miracl-en-24": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-24.jsonl.gz",
+    "expected_md5": "eb579b4ad40d6735d370bf30b7877a25",
+    "size_hint": 76272005
+  },
+  "miracl-en-25": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-25.jsonl.gz",
+    "expected_md5": "7de75404b5cf6c8b965c8257e62ba70b",
+    "size_hint": 77082664
+  },
+  "miracl-en-26": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-26.jsonl.gz",
+    "expected_md5": "d42ed88eaa947b610846188185a25f54",
+    "size_hint": 78228256
+  },
+  "miracl-en-27": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-27.jsonl.gz",
+    "expected_md5": "e61b3098053a98b9bdb753a34476e239",
+    "size_hint": 76445022
+  },
+  "miracl-en-28": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-28.jsonl.gz",
+    "expected_md5": "de185edb91a43a6dbb434658fbdbb96f",
+    "size_hint": 76434972
+  },
+  "miracl-en-29": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-29.jsonl.gz",
+    "expected_md5": "8f25bd36199c36e2a1812b2e22b56430",
+    "size_hint": 74697707
+  },
+  "miracl-en-30": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-30.jsonl.gz",
+    "expected_md5": "9c2e84252fb7ca24b4fd593682bd2aef",
+    "size_hint": 71839143
+  },
+  "miracl-en-31": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-31.jsonl.gz",
+    "expected_md5": "4fc0fb743bc402bb9d0469856fd3694c",
+    "size_hint": 73437320
+  },
+  "miracl-en-32": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-32.jsonl.gz",
+    "expected_md5": "64c3d8cae61441df7201d44b08972e41",
+    "size_hint": 73322325
+  },
+  "miracl-en-33": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-33.jsonl.gz",
+    "expected_md5": "42ebd5e87d5a417689c37cf336749e7f",
+    "size_hint": 70699147
+  },
+  "miracl-en-34": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-34.jsonl.gz",
+    "expected_md5": "91635ee421cfcd9b8ea5834695e556b7",
+    "size_hint": 74843362
+  },
+  "miracl-en-35": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-35.jsonl.gz",
+    "expected_md5": "fa7ada6f5f145f5a04bd4113cfe09787",
+    "size_hint": 71914591
+  },
+  "miracl-en-36": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-36.jsonl.gz",
+    "expected_md5": "90c6abea75caa84381d238fd85e4520e",
+    "size_hint": 73255731
+  },
+  "miracl-en-37": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-37.jsonl.gz",
+    "expected_md5": "6fdf53729c158371ea30cf56f37d7db5",
+    "size_hint": 74956992
+  },
+  "miracl-en-38": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-38.jsonl.gz",
+    "expected_md5": "8dcb112f443c49e1d35bdac0db63a111",
+    "size_hint": 70506538
+  },
+  "miracl-en-39": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-39.jsonl.gz",
+    "expected_md5": "071adb3f777cb077ff170c6856bbdcd7",
+    "size_hint": 73824158
+  },
+  "miracl-en-40": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-40.jsonl.gz",
+    "expected_md5": "879d54b7d7826a2d7133955a689890f5",
+    "size_hint": 72684614
+  },
+  "miracl-en-41": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-41.jsonl.gz",
+    "expected_md5": "f379d5441be8e19a690f116a7a9ad501",
+    "size_hint": 74674474
+  },
+  "miracl-en-42": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-42.jsonl.gz",
+    "expected_md5": "1fb0a973751261adc3c2165fc99f0ce1",
+    "size_hint": 74166535
+  },
+  "miracl-en-43": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-43.jsonl.gz",
+    "expected_md5": "e1621cf06f3e5d6b3eff4d8607641258",
+    "size_hint": 72571698
+  },
+  "miracl-en-44": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-44.jsonl.gz",
+    "expected_md5": "47b0191ce682e60708a979b2232607f9",
+    "size_hint": 72937865
+  },
+  "miracl-en-45": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-45.jsonl.gz",
+    "expected_md5": "3fa31818300aba29db933557f31b3494",
+    "size_hint": 74948873
+  },
+  "miracl-en-46": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-46.jsonl.gz",
+    "expected_md5": "462641fe08c052ab1fbf7add67a48859",
+    "size_hint": 75950579
+  },
+  "miracl-en-47": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-47.jsonl.gz",
+    "expected_md5": "5cb8207d31dab7cd82ba64317e65c8ac",
+    "size_hint": 72978719
+  },
+  "miracl-en-48": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-48.jsonl.gz",
+    "expected_md5": "6a8433dcf294c669078cdf1e5a88aa38",
+    "size_hint": 73930541
+  },
+  "miracl-en-49": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-49.jsonl.gz",
+    "expected_md5": "75975d9495b9cc4aa231f873281c5f02",
+    "size_hint": 74004419
+  },
+  "miracl-en-50": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-50.jsonl.gz",
+    "expected_md5": "60dbe4823f30923e1ebe3ef5b8f0879d",
+    "size_hint": 70736448
+  },
+  "miracl-en-51": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-51.jsonl.gz",
+    "expected_md5": "ec9c101022dfc897c058e96c220758f6",
+    "size_hint": 73415840
+  },
+  "miracl-en-52": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-52.jsonl.gz",
+    "expected_md5": "925b65b5ef08abb41ce09d8645bd6dd2",
+    "size_hint": 73776910
+  },
+  "miracl-en-53": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-en/docs-53.jsonl.gz",
+    "expected_md5": "62385f5b6cf87e7aa039cdc542a9e55c",
+    "size_hint": 72091328
+  },
+  "miracl-es-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-0.jsonl.gz",
+    "expected_md5": "f28bff7c3058d2cb8c9e99b919de6c4f",
+    "size_hint": 92874838
+  },
+  "miracl-es-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-1.jsonl.gz",
+    "expected_md5": "1c08c92860d8fa535b545eb530b27dbd",
+    "size_hint": 89646018
+  },
+  "miracl-es-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-2.jsonl.gz",
+    "expected_md5": "fb75e0db47df90f0135df0acba637196",
+    "size_hint": 85432948
+  },
+  "miracl-es-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-3.jsonl.gz",
+    "expected_md5": "c8ae25908e11c995e3d2a822c6dd8ffc",
+    "size_hint": 83318741
+  },
+  "miracl-es-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-4.jsonl.gz",
+    "expected_md5": "671420453f20ef32a35cbf2c9f9c1310",
+    "size_hint": 80843535
+  },
+  "miracl-es-5": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-5.jsonl.gz",
+    "expected_md5": "b907c427cf796810f28ee9375f91bcdf",
+    "size_hint": 79438738
+  },
+  "miracl-es-6": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-6.jsonl.gz",
+    "expected_md5": "392e4b93c786551799fab1c2f5f161d8",
+    "size_hint": 79152845
+  },
+  "miracl-es-7": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-7.jsonl.gz",
+    "expected_md5": "f8cf2f4c34b28ca166143f5b94349500",
+    "size_hint": 78544890
+  },
+  "miracl-es-8": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-8.jsonl.gz",
+    "expected_md5": "d7f1edf8f756009db26deb49bf22f7ce",
+    "size_hint": 77588034
+  },
+  "miracl-es-9": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-9.jsonl.gz",
+    "expected_md5": "456ec112182b917d91d9322cf00786d2",
+    "size_hint": 66337959
+  },
+  "miracl-es-10": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-10.jsonl.gz",
+    "expected_md5": "c71af44961b7e0fd33c49fe1f61039bf",
+    "size_hint": 62622594
+  },
+  "miracl-es-11": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-11.jsonl.gz",
+    "expected_md5": "0bd1d3ab02269c7ee2207ff39fe544e5",
+    "size_hint": 65707558
+  },
+  "miracl-es-12": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-12.jsonl.gz",
+    "expected_md5": "e94562d6f2df0a1c84075c58cb035883",
+    "size_hint": 72601971
+  },
+  "miracl-es-13": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-13.jsonl.gz",
+    "expected_md5": "19509077dc27fc650f134223b385a5e7",
+    "size_hint": 75474457
+  },
+  "miracl-es-14": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-14.jsonl.gz",
+    "expected_md5": "deb94c634d4c1d85e78bb2ff35028383",
+    "size_hint": 76497338
+  },
+  "miracl-es-15": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-15.jsonl.gz",
+    "expected_md5": "02a780bf6a3a31bfdfc759ec403403bc",
+    "size_hint": 73009124
+  },
+  "miracl-es-16": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-16.jsonl.gz",
+    "expected_md5": "748934c50ae05d7273a2c470b40d6e89",
+    "size_hint": 74206192
+  },
+  "miracl-es-17": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-17.jsonl.gz",
+    "expected_md5": "62ff853bfc22d96f4ecae8e8e1c86caa",
+    "size_hint": 67140050
+  },
+  "miracl-es-18": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-18.jsonl.gz",
+    "expected_md5": "81e79b7ee32173601e71fd9173bf62b3",
+    "size_hint": 77883748
+  },
+  "miracl-es-19": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-19.jsonl.gz",
+    "expected_md5": "fa6bb29881142b6df1a1049aafa864de",
+    "size_hint": 79904116
+  },
+  "miracl-es-20": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-es/docs-20.jsonl.gz",
+    "expected_md5": "b561242ee7bc55e24cd21cd1a48a256c",
+    "size_hint": 57162245
+  },
+  "miracl-fa-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fa/docs-0.jsonl.gz",
+    "expected_md5": "6b1135045aaa46c539a2960cda7c3b0a",
+    "size_hint": 80831146
+  },
+  "miracl-fa-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fa/docs-1.jsonl.gz",
+    "expected_md5": "a86e85011229e984dc44728baf46eebb",
+    "size_hint": 56314013
+  },
+  "miracl-fa-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fa/docs-2.jsonl.gz",
+    "expected_md5": "88ac988b8b61287bd55f9b977532ac5e",
+    "size_hint": 53167889
+  },
+  "miracl-fa-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fa/docs-3.jsonl.gz",
+    "expected_md5": "2e0030f301e5af7723dff4dce14f5343",
+    "size_hint": 57027208
+  },
+  "miracl-fa-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fa/docs-4.jsonl.gz",
+    "expected_md5": "dc78362be19963c12fd511c07d1386b3",
+    "size_hint": 22422574
+  },
+  "miracl-fi-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fi/docs-0.jsonl.gz",
+    "expected_md5": "1c7d419a877fd406db8321e56600e6c5",
+    "size_hint": 79712094
+  },
+  "miracl-fi-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fi/docs-1.jsonl.gz",
+    "expected_md5": "f45db81107c579315d0e5a9d2f33a57f",
+    "size_hint": 71207705
+  },
+  "miracl-fi-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fi/docs-2.jsonl.gz",
+    "expected_md5": "f6d202472a36d443f5e214a6de92b515",
+    "size_hint": 68005963
+  },
+  "miracl-fi-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fi/docs-3.jsonl.gz",
+    "expected_md5": "1ea7920d58d75a309462585f3fa479cf",
+    "size_hint": 51120372
+  },
+  "miracl-fr-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-0.jsonl.gz",
+    "expected_md5": "fa62c438d74f8ac9501db7af6aaca817",
+    "size_hint": 81033537
+  },
+  "miracl-fr-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-1.jsonl.gz",
+    "expected_md5": "34262e282c58c31e965d89274df96e40",
+    "size_hint": 78469930
+  },
+  "miracl-fr-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-2.jsonl.gz",
+    "expected_md5": "a051dc99b9ffb81c1eaf394627064927",
+    "size_hint": 70017319
+  },
+  "miracl-fr-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-3.jsonl.gz",
+    "expected_md5": "f8a18f6ae5b2ebc58a39791469c38bdd",
+    "size_hint": 66942793
+  },
+  "miracl-fr-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-4.jsonl.gz",
+    "expected_md5": "5a240afc021ecb5dc27285abe4b6d923",
+    "size_hint": 59460892
+  },
+  "miracl-fr-5": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-5.jsonl.gz",
+    "expected_md5": "a03ba537c9d68ecef50aa5a4777407cc",
+    "size_hint": 62629125
+  },
+  "miracl-fr-6": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-6.jsonl.gz",
+    "expected_md5": "499367e79f29e565cf9bfcbe3ab2adea",
+    "size_hint": 69205967
+  },
+  "miracl-fr-7": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-7.jsonl.gz",
+    "expected_md5": "652114ff90f8cf484c8701e5f8ea5d02",
+    "size_hint": 68194158
+  },
+  "miracl-fr-8": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-8.jsonl.gz",
+    "expected_md5": "0d7e5b3231ab67d6026f8237bcf0be0f",
+    "size_hint": 68757697
+  },
+  "miracl-fr-9": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-9.jsonl.gz",
+    "expected_md5": "f916ce6802d20b4c3f9905363d3bb31f",
+    "size_hint": 68056019
+  },
+  "miracl-fr-10": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-10.jsonl.gz",
+    "expected_md5": "8816919a5cfb523ac75579453dde6d47",
+    "size_hint": 67698213
+  },
+  "miracl-fr-11": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-11.jsonl.gz",
+    "expected_md5": "642128fb3b08f35d7c8d34f6994d98cc",
+    "size_hint": 67898616
+  },
+  "miracl-fr-12": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-12.jsonl.gz",
+    "expected_md5": "daa9926bdf888aed05dbba8aafa419dd",
+    "size_hint": 66768800
+  },
+  "miracl-fr-13": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-13.jsonl.gz",
+    "expected_md5": "12afc85cd7ddda45c3f5d3f199b596a7",
+    "size_hint": 65451686
+  },
+  "miracl-fr-14": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-14.jsonl.gz",
+    "expected_md5": "46a9acd1b09a81701b89e8b1859bf30c",
+    "size_hint": 65202296
+  },
+  "miracl-fr-15": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-15.jsonl.gz",
+    "expected_md5": "3968784422a38c29653c1636938442de",
+    "size_hint": 62889747
+  },
+  "miracl-fr-16": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-16.jsonl.gz",
+    "expected_md5": "a4b18549cb5bed8365442e5a434c18c0",
+    "size_hint": 62186443
+  },
+  "miracl-fr-17": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-17.jsonl.gz",
+    "expected_md5": "245749a12a976b0a11bac0a8fcc61b92",
+    "size_hint": 61659176
+  },
+  "miracl-fr-18": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-18.jsonl.gz",
+    "expected_md5": "2f81457bb7058c4708e15d73858dfc86",
+    "size_hint": 61297567
+  },
+  "miracl-fr-19": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-19.jsonl.gz",
+    "expected_md5": "96309f23dc95423c831a2ccf30b97ec3",
+    "size_hint": 62810856
+  },
+  "miracl-fr-20": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-20.jsonl.gz",
+    "expected_md5": "db4a22111c1b3dbbbbac2d71531dd631",
+    "size_hint": 62973327
+  },
+  "miracl-fr-21": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-21.jsonl.gz",
+    "expected_md5": "f72f7bb7c14ef8a450715f8a952b2816",
+    "size_hint": 61427017
+  },
+  "miracl-fr-22": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-22.jsonl.gz",
+    "expected_md5": "666b5e7ddcc0918febb3331a14b3d612",
+    "size_hint": 58091930
+  },
+  "miracl-fr-23": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-23.jsonl.gz",
+    "expected_md5": "f9c3316e6407e17206a1eedacc6b776b",
+    "size_hint": 61344070
+  },
+  "miracl-fr-24": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-24.jsonl.gz",
+    "expected_md5": "d32c6a0cf9b59bba24774e4fd4f0691e",
+    "size_hint": 61250359
+  },
+  "miracl-fr-25": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-25.jsonl.gz",
+    "expected_md5": "a110c2681991390092e2e4920e28abf7",
+    "size_hint": 56044622
+  },
+  "miracl-fr-26": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-26.jsonl.gz",
+    "expected_md5": "2eb3482ab52c21ebf16c22184a4816c4",
+    "size_hint": 64189087
+  },
+  "miracl-fr-27": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-27.jsonl.gz",
+    "expected_md5": "d2c4f0443b2ccd875b45b5519fa6188c",
+    "size_hint": 65662563
+  },
+  "miracl-fr-28": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-28.jsonl.gz",
+    "expected_md5": "5f66fb25b1d295614b8a92c4f9636d05",
+    "size_hint": 65310822
+  },
+  "miracl-fr-29": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-fr/docs-29.jsonl.gz",
+    "expected_md5": "1f4c400a40b7020c797f105457e451d2",
+    "size_hint": 18176293
+  },
+  "miracl-hi-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-hi/docs-0.jsonl.gz",
+    "expected_md5": "ffefe282e6be09f06a69d2945f402bda",
+    "size_hint": 95650487
+  },
+  "miracl-hi-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-hi/docs-1.jsonl.gz",
+    "expected_md5": "3fe3f9f265b2f52a25b4a49b80c82cf5",
+    "size_hint": 1161610
+  },
+  "miracl-id-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-id/docs-0.jsonl.gz",
+    "expected_md5": "e2ff61190833252d531dea1f90d90426",
+    "size_hint": 68482339
+  },
+  "miracl-id-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-id/docs-1.jsonl.gz",
+    "expected_md5": "ffe27c80bfcb8061954d64282cb0f71c",
+    "size_hint": 39714366
+  },
+  "miracl-id-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-id/docs-2.jsonl.gz",
+    "expected_md5": "c85ce23396c8c0e61dc11806c32495e2",
+    "size_hint": 61386913
+  },
+  "miracl-ja-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-0.jsonl.gz",
+    "expected_md5": "f064d7aaea82b1619d1709c36483c461",
+    "size_hint": 87302446
+  },
+  "miracl-ja-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-1.jsonl.gz",
+    "expected_md5": "903c2bc115f8ef719b3d0e21c2b13daf",
+    "size_hint": 84310580
+  },
+  "miracl-ja-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-2.jsonl.gz",
+    "expected_md5": "57245e8a46d1cf289bc5377fd0d54918",
+    "size_hint": 82263425
+  },
+  "miracl-ja-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-3.jsonl.gz",
+    "expected_md5": "9771ca5370e49dbcae101650293e0cbc",
+    "size_hint": 79819291
+  },
+  "miracl-ja-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-4.jsonl.gz",
+    "expected_md5": "eb4abc18ea71876d8a974813701e52d2",
+    "size_hint": 76369546
+  },
+  "miracl-ja-5": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-5.jsonl.gz",
+    "expected_md5": "aeceab57d0e29f028cdad7724eefae2b",
+    "size_hint": 73543156
+  },
+  "miracl-ja-6": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-6.jsonl.gz",
+    "expected_md5": "f2e9f77af251bff8b8dbac3f0972abd9",
+    "size_hint": 75527173
+  },
+  "miracl-ja-7": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-7.jsonl.gz",
+    "expected_md5": "81e4e762a82d13fefd8d453846f286ac",
+    "size_hint": 75265643
+  },
+  "miracl-ja-8": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-8.jsonl.gz",
+    "expected_md5": "7f008e134c6acbf5ea2aeee2f2b16157",
+    "size_hint": 74070028
+  },
+  "miracl-ja-9": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-9.jsonl.gz",
+    "expected_md5": "c354f0d766ff28950b2aea0227141b5c",
+    "size_hint": 72893709
+  },
+  "miracl-ja-10": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-10.jsonl.gz",
+    "expected_md5": "651d84515e3f23a7dfebbb9dd1a97e05",
+    "size_hint": 74375206
+  },
+  "miracl-ja-11": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-11.jsonl.gz",
+    "expected_md5": "88f8bb6f3a702f0228523a02bc913e55",
+    "size_hint": 73261365
+  },
+  "miracl-ja-12": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-12.jsonl.gz",
+    "expected_md5": "2e5156a5f0580f3b2aae763a55d323f3",
+    "size_hint": 71472211
+  },
+  "miracl-ja-13": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ja/docs-13.jsonl.gz",
+    "expected_md5": "3a080cb1f0e82843903c300ea3330eef",
+    "size_hint": 64646621
+  },
+  "miracl-ko-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ko/docs-0.jsonl.gz",
+    "expected_md5": "dcae1fe2c7c966f4bd92c09aa9fba88f",
+    "size_hint": 87965596
+  },
+  "miracl-ko-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ko/docs-1.jsonl.gz",
+    "expected_md5": "8068bb2ca5796bbca7af267527518d86",
+    "size_hint": 75422723
+  },
+  "miracl-ko-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ko/docs-2.jsonl.gz",
+    "expected_md5": "ea72e30dd4ed336b37422f559f60d4ed",
+    "size_hint": 62582229
+  },
+  "miracl-ru-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-0.jsonl.gz",
+    "expected_md5": "4373a43259b241792bcb6e979943db29",
+    "size_hint": 100436081
+  },
+  "miracl-ru-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-1.jsonl.gz",
+    "expected_md5": "5283c42d6542e5c8dc2c1be5789f0b7a",
+    "size_hint": 98036311
+  },
+  "miracl-ru-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-2.jsonl.gz",
+    "expected_md5": "e2a7250e04a82f5f257b48d3950410c7",
+    "size_hint": 90050391
+  },
+  "miracl-ru-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-3.jsonl.gz",
+    "expected_md5": "e0c6f72fbbb5ebb418387b9c9a22696f",
+    "size_hint": 89443294
+  },
+  "miracl-ru-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-4.jsonl.gz",
+    "expected_md5": "0b351f8491f1e8a68db00bd56de41862",
+    "size_hint": 82032411
+  },
+  "miracl-ru-5": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-5.jsonl.gz",
+    "expected_md5": "fe82dd5ec8fede641829e8acb71da04a",
+    "size_hint": 88457515
+  },
+  "miracl-ru-6": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-6.jsonl.gz",
+    "expected_md5": "081133522ff711ed40ae47c8fd3c56e2",
+    "size_hint": 81102964
+  },
+  "miracl-ru-7": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-7.jsonl.gz",
+    "expected_md5": "9c1297361dce8919649a09f7c72d49bb",
+    "size_hint": 80229752
+  },
+  "miracl-ru-8": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-8.jsonl.gz",
+    "expected_md5": "e488d2d37394edf07cee425dc758c11a",
+    "size_hint": 74478227
+  },
+  "miracl-ru-9": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-9.jsonl.gz",
+    "expected_md5": "51b4da27835ca5febda7848d6754ecac",
+    "size_hint": 73515957
+  },
+  "miracl-ru-10": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-10.jsonl.gz",
+    "expected_md5": "57b0d428b8d0004387eaa507e2336d79",
+    "size_hint": 75656001
+  },
+  "miracl-ru-11": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-11.jsonl.gz",
+    "expected_md5": "da7c457c057cb525ce57980a7dde0989",
+    "size_hint": 78271034
+  },
+  "miracl-ru-12": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-12.jsonl.gz",
+    "expected_md5": "ae23ce2efd5216008d5bd4d353b844ac",
+    "size_hint": 76539873
+  },
+  "miracl-ru-13": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-13.jsonl.gz",
+    "expected_md5": "6edf74f3a33c6de035881ad70bb98cb8",
+    "size_hint": 78171375
+  },
+  "miracl-ru-14": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-14.jsonl.gz",
+    "expected_md5": "ec732d5a4a36a0cee67f631f9b7ca976",
+    "size_hint": 78271662
+  },
+  "miracl-ru-15": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-15.jsonl.gz",
+    "expected_md5": "117e3c9b6c2538144717a22319c8c701",
+    "size_hint": 79432861
+  },
+  "miracl-ru-16": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-16.jsonl.gz",
+    "expected_md5": "cae1d225074503572b377254d74f90c3",
+    "size_hint": 81415343
+  },
+  "miracl-ru-17": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-17.jsonl.gz",
+    "expected_md5": "e7468fe6203f581175c2527bdc6eb5ed",
+    "size_hint": 81955644
+  },
+  "miracl-ru-18": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-18.jsonl.gz",
+    "expected_md5": "c6caaa99bf8c2746a88d5f2d0dae6a49",
+    "size_hint": 81041807
+  },
+  "miracl-ru-19": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-ru/docs-19.jsonl.gz",
+    "expected_md5": "4ddfc2b723b470597caa1a8543d5ee9f",
+    "size_hint": 6749385
+  },
+  "miracl-sw-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-sw/docs-0.jsonl.gz",
+    "expected_md5": "afdb146539d0f488f14c2833e14df799",
+    "size_hint": 10199394
+  },
+  "miracl-te-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-te/docs-0.jsonl.gz",
+    "expected_md5": "7b1067004a12a018eb4ca9e7e7655600",
+    "size_hint": 68858140
+  },
+  "miracl-te-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-te/docs-1.jsonl.gz",
+    "expected_md5": "703a0ac0d66c6fa6b684df9d7d6afd20",
+    "size_hint": 3454223
+  },
+  "miracl-th-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-th/docs-0.jsonl.gz",
+    "expected_md5": "060bf4cb7fa0127a571023709f117554",
+    "size_hint": 101610412
+  },
+  "miracl-th-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-th/docs-1.jsonl.gz",
+    "expected_md5": "2e05644bee9ab5da8f7f7177f0c7bafc",
+    "size_hint": 8027002
+  },
+  "miracl-zh-0": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-0.jsonl.gz",
+    "expected_md5": "68248e7866b0571e750140a4baf31ad8",
+    "size_hint": 97061486
+  },
+  "miracl-zh-1": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-1.jsonl.gz",
+    "expected_md5": "c3bc8bd34a53d9589c29f580b94c2d17",
+    "size_hint": 85538355
+  },
+  "miracl-zh-2": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-2.jsonl.gz",
+    "expected_md5": "eefbf18d0e8edcee9db00a748ce08f86",
+    "size_hint": 80287705
+  },
+  "miracl-zh-3": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-3.jsonl.gz",
+    "expected_md5": "cc7924a7bacc7abd0974fd07168064d1",
+    "size_hint": 76098139
+  },
+  "miracl-zh-4": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-4.jsonl.gz",
+    "expected_md5": "18879a45e3b27f0b0b588e68a697e282",
+    "size_hint": 60594024
+  },
+  "miracl-zh-5": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-5.jsonl.gz",
+    "expected_md5": "be7e9f9b61c23306e6feedb2e26aab20",
+    "size_hint": 50492481
+  },
+  "miracl-zh-6": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-6.jsonl.gz",
+    "expected_md5": "6a6359359436b4f89c5be50d856e625d",
+    "size_hint": 76002940
+  },
+  "miracl-zh-7": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-7.jsonl.gz",
+    "expected_md5": "06aa37a25a84c6830ae5fb57ff877b05",
+    "size_hint": 71709349
+  },
+  "miracl-zh-8": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-8.jsonl.gz",
+    "expected_md5": "3ec702e19ef98ed6c9f639c936e293cd",
+    "size_hint": 72069621
+  },
+  "miracl-zh-9": {
+    "url": "https://huggingface.co/datasets/miracl/miracl-corpus/resolve/main/miracl-corpus-v1.0-zh/docs-9.jsonl.gz",
+    "expected_md5": "841c4f70b603aee993451b3b75ab5236",
+    "size_hint": 63401726
+  }
+},
 
 "mmarco": {
   "zh/docs": {
@@ -3103,7 +3990,7 @@
   },
   "nq-train-09": {
     "url": "https://storage.googleapis.com/natural_questions/v1.0/train/nq-train-09.jsonl.gz",
-    "size_hint": 883494801,
+      
     "expected_md5": "f4335cb2b08d3166ef5fa007560d0f95",
     "stream": true,
     "skip_local": true
